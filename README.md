@@ -41,8 +41,6 @@ Instead of always checking the DB or cache, this system first asks:
 ## 📷 Screenshots
 
 <img src="https://github.com/user-attachments/assets/5c96ae97-2e7a-42d7-aef9-eed15fe5e31d" width="500" />
-
-
 <img src="https://github.com/user-attachments/assets/cb27ee3a-8384-4ece-9839-90f0824da22d" width="500" />
 
 ---
