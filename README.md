@@ -1,4 +1,4 @@
-
+![bloom1](https://github.com/user-attachments/assets/2cad45fe-2653-460d-967a-4f88d62b1e26)
 # 🔍 Smart Username Availability Checker using Bloom Filters
 
 This is a system designed to check if a username is available — **fast**.  
@@ -41,8 +41,10 @@ Instead of always checking the DB or cache, this system first asks:
 
 ## 📷 Screenshots
 
-<img src="screenshots/main-ui.png" width="500" />
+<img src="https://github.com/user-attachments/assets/5c96ae97-2e7a-42d7-aef9-eed15fe5e31d" width="500" />
+
 <img src="screenshots/metrics-dashboard.png" width="500" />
+<img src="https://user-images.githubusercontent.com/yourid/imagename.png" width="500" />
 
 ---
 
