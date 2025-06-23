@@ -113,6 +113,6 @@ This project started as an experiment to understand how large systems optimize s
 
 ## 📫 Let's Connect
 
-Made with ☕ by [Pratham Bhatia](https://github.com/your-username)
+Made with ☕ by [Pratham Bhatia](https://github.com/prathambhatia)
 
 ---
