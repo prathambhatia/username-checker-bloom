@@ -28,11 +28,11 @@ Inspired by how companies like Google, Twitter, or Instagram check for username 
 
 ## 🧠 Why Bloom Filters?
 
-Imagine asking, "Could this username possibly exist?" — before bothering your expensive database or even the cache.
+Imagine asking, "Could this username possibly exist?" before bothering your expensive database or even the cache.
 
-If the answer is **No** → 💥 Boom! Instantly returns ✅ available — without touching Redis, Mongo, or any DB. Like a bouncer saying, “Nope, they’re not on the list.”
+If the answer is **No** 💥 Boom! Instantly returns ✅ available without touching Redis, Mongo, or any DB. Like a bouncer saying, “Nope, they’re not on the list.”
 
-If the answer is **Maybe** → then, and only then, you check Redis or Mongo to confirm.
+If the answer is **Maybe** then, and only then, you check Redis or Mongo to confirm.
 
 This is a game-changer at scale.
 
@@ -40,9 +40,10 @@ A Bloom Filter gives you lightning-fast “definitely not” answers using barel
 
 Think: 1M usernames ≈ ~2 MB Bloom Filter, vs ~30 MB using a traditional index.
 
-You're filtering out obvious "nope" cases before ever pinging your backend — saving memory, bandwidth, and CPU cycles.
+You're filtering out obvious "nope" cases before ever pinging your backend, saving memory, bandwidth, and CPU cycles.
 
-It’s like having an efficient doorman who says “Don’t even ask inside” — and 99% of the time, they’re absolutely right.
+It’s like having an efficient doorman who says “Don’t even ask inside” and 99% of the time, they’re absolutely right.
+
 
 
 ---
