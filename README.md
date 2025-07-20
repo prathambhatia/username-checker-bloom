@@ -53,6 +53,8 @@ It’s like having an efficient doorman who says “Don’t even ask inside” a
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5c96ae97-2e7a-42d7-aef9-eed15fe5e31d" width="500" height="700" />
   <img src="https://github.com/user-attachments/assets/cb27ee3a-8384-4ece-9839-90f0824da22d" width="500" height="700" />
+  <img width="726" height="264" alt="image" src="https://github.com/user-attachments/assets/6faa0cea-ac80-4490-8bc5-51019af48e92" />
+
 </p>
 
 
